@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "name": "Brown Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/51JO6wC1FKL._AC_UL320_.jpg",
+        "price": "1500",
+        "offer": "25% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 2,
+        "name": "Green Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/6163BrfCvHL._AC_UL320_.jpg",
+        "price": "1700",
+        "offer": "15% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 3,
+        "name": "Red Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/61lgHR8Zk8L._AC_UL320_.jpg",
+        "price": "2500",
+        "offer": "10% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 4,
+        "name": "Blue Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/31pzQFtsR1L._AC_UL320_.jpg",
+        "price": "1200",
+        "offer": "10% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 5,
+        "name": "White Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/51DlaO52cwL._AC_UL320_.jpg",
+        "price": "1550",
+        "offer": "5% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 6,
+        "name": "Black Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/31PF6PFn-uL._AC_UL320_.jpg",
+        "price": "2550",
+        "offer": "35% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 7,
+        "name": "Pink Single Piece Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/61Tj9IEw3DL._AC_UL320_.jpg",
+        "price": "1900",
+        "offer": "15% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 8,
+        "name": "Brown Cheetha Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/51DlaO52cwL._AC_UL320_.jpg",
+        "price": "2900",
+        "offer": "15% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 9,
+        "name": "Women Western Dress Heart Printed",
+        "clothesImg": "https://m.media-amazon.com/images/I/418ncyJGkAL._AC_UL320_.jpg",
+        "price": "2800",
+        "offer": "20% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 10,
+        "name": "GRECIILOOKS Women Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/61qAurtITgL._AC_UL320_.jpg",
+        "price": "3800",
+        "offer": "20% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 11,
+        "name": "Brown Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/81BV0ohpOsL._AC_UL320_.jpg",
+        "price": "1500",
+        "offer": "25% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 12,
+        "name": "Green Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/51F+X9oHwWL._AC_UL320_.jpg",
+        "price": "1700",
+        "offer": "15% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 13,
+        "name": "Red Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/51o0UEkM8fL._AC_UL320_.jpg",
+        "price": "2500",
+        "offer": "10% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 14,
+        "name": "Blue Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/51F+X9oHwWL._AC_UL320_.jpg",
+        "price": "1200",
+        "offer": "10% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 15,
+        "name": "White Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/51o0UEkM8fL._AC_UL320_.jpg",
+        "price": "1550",
+        "offer": "5% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 16,
+        "name": "Black Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/61lgHR8Zk8L._AC_UL320_.jpg",
+        "price": "2550",
+        "offer": "35% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 17,
+        "name": "Pink Single Piece Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/51juAikFa-L._AC_UL320_.jpg",
+        "price": "1900",
+        "offer": "15% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 18,
+        "name": "Brown Cheetha Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/51UW92IbCRL._AC_UL320_.jpg",
+        "price": "2900",
+        "offer": "15% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 19,
+        "name": "Women Western Dress Heart Printed",
+        "clothesImg": "https://m.media-amazon.com/images/I/81TvgVp7lIL._AC_UL320_.jpg",
+        "price": "2800",
+        "offer": "20% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 20,
+        "name": "GRECIILOOKS Women Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/61vFrn2vitL._AC_UL320_.jpg",
+        "price": "3800",
+        "offer": "20% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 21,
+        "name": "Brown Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/61qAurtITgL._AC_UL320_.jpg",
+        "price": "1500",
+        "offer": "25% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 22,
+        "name": "Green Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/61k3xrWUdOL._AC_UL320_.jpg",
+        "price": "1700",
+        "offer": "15% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 23,
+        "name": "Red Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/81F-6MnZRrL._AC_UL320_.jpg",
+        "price": "2500",
+        "offer": "10% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 24,
+        "name": "Blue Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/51WVMQWalEL._AC_UL320_.jpg",
+        "price": "1200",
+        "offer": "10% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 25,
+        "name": "White Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/81H5w4lISJL._AC_UL320_.jpg",
+        "price": "1550",
+        "offer": "5% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 26,
+        "name": "Black Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/51u8apDgPZL._AC_UL320_.jpg",
+        "price": "2550",
+        "offer": "35% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 27,
+        "name": "Pink Single Piece Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/51CzuSaauUL._AC_UL320_.jpg",
+        "price": "1900",
+        "offer": "15% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 28,
+        "name": "Brown Cheetha Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/41WOi4NG5LL._AC_UL320_.jpg",
+        "price": "2900",
+        "offer": "15% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 29,
+        "name": "Women Western Dress Heart Printed",
+        "clothesImg": "https://m.media-amazon.com/images/I/91T9CCcEYkL._AC_UL320_.jpg",
+        "price": "2800",
+        "offer": "20% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 30,
+        "name": "GRECIILOOKS Women Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/51JO6wC1FKL._AC_UL320_.jpg",
+        "price": "3800",
+        "offer": "20% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 31,
+        "name": "Brown Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/31pzQFtsR1L._AC_UL320_.jpg",
+        "price": "1500",
+        "offer": "25% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 32,
+        "name": "Green Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/61Tj9IEw3DL._AC_UL320_.jpg",
+        "price": "1700",
+        "offer": "15% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 33,
+        "name": "Red Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/81TvgVp7lIL._AC_UL320_.jpg",
+        "price": "2500",
+        "offer": "10% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 34,
+        "name": "Blue Top",
+        "clothesImg": "https://m.media-amazon.com/images/I/61vFrn2vitL._AC_UL320_.jpg",
+        "price": "1200",
+        "offer": "10% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 35,
+        "name": "White Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/81BV0ohpOsL._AC_UL320_.jpg",
+        "price": "1550",
+        "offer": "5% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 36,
+        "name": "Black Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/51F+X9oHwWL._AC_UL320_.jpg",
+        "price": "2550",
+        "offer": "35% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 37,
+        "name": "Pink Single Piece Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/61lgHR8Zk8L._AC_UL320_.jpg",
+        "price": "1900",
+        "offer": "15% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 38,
+        "name": "Brown Cheetha Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/51F+X9oHwWL._AC_UL320_.jpg",
+        "price": "2900",
+        "offer": "15% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 39,
+        "name": "Women Western Dress Heart Printed",
+        "clothesImg": "https://m.media-amazon.com/images/I/51juAikFa-L._AC_UL320_.jpg",
+        "price": "2800",
+        "offer": "20% OFF",
+        "isLiked": false
+    },
+    {
+        "id": 40,
+        "name": "GRECIILOOKS Women Dress",
+        "clothesImg": "https://m.media-amazon.com/images/I/51juAikFa-L._AC_UL320_.jpg",
+        "price": "3800",
+        "offer": "20% OFF",
+        "isLiked": false
+    }
+]

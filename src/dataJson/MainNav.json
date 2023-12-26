@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Sale"
+    },
+    {
+        "id": "2",
+        "name": "New"
+    },
+    {
+        "id": "3",
+        "name": "Clothes"
+    },
+    {
+        "id": "4",
+        "name": "Dresses"
+    },
+    {
+        "id": "5",
+        "name": "Formal Wear"
+    },
+    {
+        "id": "6",
+        "name": "Accessories"
+    },
+    {
+        "id": "7",
+        "name": "Winter Outfits"
+    },
+    {
+        "id": "8",
+        "name": "Shoes"
+    },
+    {
+        "id": "9",
+        "name": "Nasty Blog"
+    }
+]

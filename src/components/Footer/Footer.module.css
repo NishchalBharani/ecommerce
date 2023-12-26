@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,500;1,200;1,300;1,500&family=Roboto+Slab:wght@200;300&display=swap');
+
+.base {
+    width: 100%;
+    height: auto;
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+}
+
+.sectionBase {
+    width: 20%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding: 10px 20px;
+    gap: 15px;
+}
+
+.paragraph {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.trackText {
+    background-color: rgb(239, 239, 239);
+    width: 90%;
+    padding: 0px 0px 0px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.para2 {
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.rightArrow {
+    width: 5%;
+    margin-right: 5%;
+}
+
+.paraNew {
+    font-size: 15px;
+    font-weight: 300;
+    margin: 0%;
+}
+
+.paraNew:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.verticalLine {
+    position: relative;
+    width: 2px;
+    height: auto;
+    margin: 10px 0;
+    background-color: transparent;
+    border-left: 2px solid #f1f1f1;
+  }
+  
+  .verticalLine::before,
+  .verticalLine::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -5px; 
+    width: 10px; 
+    height: 10px; 
+    background-color: #f1f1f1; 
+    clip-path: polygon(0 0, 100% 0, 50% 100%);
+  }
+  
+  .verticalLine::after {
+    top: auto;
+    bottom: 0;
+    clip-path: polygon(0 100%, 100% 100%, 50% 0);
+  }
+
+.input {
+    width: 80%;
+    height: 40px;
+}
+
+.checkBoxHolder {
+    display: flex;
+}
+
+.checkBox {
+    align-self: center;
+    transform: scale(2);
+}
+
+.underlineText {
+    text-decoration: underline;
+  }
+
+.button {
+    width: 40%;
+    height: 40px;
+    background-color: black;
+    border: 0px;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
+

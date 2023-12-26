@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,500;1,200;1,300;1,500&family=Roboto+Slab:wght@200;300&display=swap');
+
+.base {
+  width: 100%;
+  height: auto;
+  font-family: 'Poppins', sans-serif;
+  overflow: hidden; 
+}
+
+.slider {
+  display: flex;
+  width: 200%;
+  transition: transform 2s ease-in-out; 
+}
+
+.imageHolder {
+  background-image: url("https://media.boohoo.com/i/boohooamplience/231218_Desktop_60DressesTopsShoes_US(1)");
+  width: 100%;
+  height: 930px;
+}
+
+.imageHolder2 {
+  background-image: url("https://media.boohoo.com/i/boohooamplience/231221_Desktop_Extra15_US_02");
+  width: 100%;
+  height: 930px;
+}
+
+.navButton {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 24px;
+    background: none;
+    border: none;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .topButton {
+    left: 10px;
+  }
+  
+  .bottomButton {
+    right: 10px;
+  }

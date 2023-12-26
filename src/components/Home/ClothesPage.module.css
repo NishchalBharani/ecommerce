@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,500;1,200;1,300;1,500&family=Roboto+Slab:wght@200;300&display=swap');
+
+
+.base {
+    width: 100%;
+    height: auto;
+    font-family: 'Poppins', sans-serif;
+    overflow: hidden;
+}
+
+.categoryMain {
+    width: 100%;
+    height: auto;
+    padding: 20px 10px;
+}
+
+.categoryHolder {
+    width: 70%;
+    height: auto;
+    gap: 15px;
+    display: flex;
+}
+
+.eachCategory {
+    background-color: rgb(229, 229, 229);
+    padding: 10px 15px;
+    width: 10%;
+    text-align: left;
+    cursor: pointer;
+    font-size: 15px;
+    display: flex;
+    justify-content: space-between;
+    transition: 0.5s;
+}
+
+
+.downArrow {
+    width: 15%;
+}
+
+.eachCategory:hover {
+    color: rgb(157, 157, 157);
+}
+
+.clothesMain {
+    display: flex;
+    width: 100%;
+    padding: 20px 10px;
+    gap: 60px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.clothesImg {
+    width: 15rem;
+    height: 400px;
+    object-fit: contain;
+}
+
+.name {
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 0%;
+}
+
+.price {
+    font-size: 20px;
+    margin-bottom: 0%;
+    margin-top: 3%;
+}
+
+.offer {
+    font-size: 18px;
+    color: rgb(210, 100, 100);
+    margin-top: 0%;
+}
