@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,500;1,200;1,300;1,500&family=Roboto+Slab:wght@200;300&display=swap');
+
+.base {
+    width: 100%;
+    height: auto;
+    font: 14px/1.2 "NG Grotesque","Helvetica Neue","Helvetica","Arial","Nimbus Sans L","Liberation Sans",sans-serif;
+}
+
+.imgAndDetailContainer {
+    width: auto;
+    height: auto;
+    padding: 20px 10px;
+    display: flex;
+}
+
+.imgContainer {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+}
+
+.clotheImage {
+    width: 50%;
+    object-fit: cover;
+}
+
+.detailContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+}
+
+.detailName {
+    font-size: 30px;
+}
+
+.detailPrice {
+    font-size: 20px;
+    color: red;
+    margin: 0%;
+}
+
+.descriptionContainer {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.descriptionText {
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.sizeAndQuantityContainer {
+    padding: 5px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quantity {
+    font-size: 15px;
+}
+
+.grayVerticalLine {
+    border-left: 2px solid #d7d7d7;
+    height: 25px;
+    margin: 0px 20px;
+}
+
+.styleGuide {
+    font-size: 15px;
+    color: #4e4e4e;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.topClothesContainer {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+.theseWould {
+    font-size: 20px;
+}
+
+.topClothes {
+    display: flex;
+    width: 100%;
+    padding: 20px 10px;
+    gap: 60px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    cursor: pointer;
+}
+
+.clothesImg {
+    width: 15rem;
+    height: 400px;
+    object-fit: contain;
+}
+
+.name {
+    font-size: 15px;
+    font-weight: 600;
+    margin-bottom: 0%;
+}
+
+.price {
+    font-size: 20px;
+    margin-bottom: 0%;
+    margin-top: 3%;
+}
+
+.offer {
+    font-size: 18px;
+    color: rgb(210, 100, 100);
+    margin-top: 0%;
+}
+
+.button {
+    width: 20%;
+    height: 40px;
+    background-color: black;
+    border: 0px;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 18px;
+}

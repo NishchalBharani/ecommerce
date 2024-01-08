@@ -111,13 +111,13 @@ const MainNav = () => {
                 <img
                     src={search}
                     style={{
-                        width: "10%"
+                        width: "6%"
                     }}
                 />
                 <img
                     src={profile}
                     style={{
-                        width: "10%"
+                        width: "6%"
                     }}
                     onClick={handleOpenSignIn}
                 />

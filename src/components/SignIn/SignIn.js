@@ -2,6 +2,7 @@ import React, { useState, useEffect } from "react";
 import { useDispatch } from "react-redux";
 import styles from "./SignIn.module.css";
 import { signin } from "../../actions/signUp.action";
+import SignUp from "../SignUp/SignUp";
 
 const SignIn = ({ onClose }) => {
     const [userData, setUserData] = useState({
@@ -10,6 +11,7 @@ const SignIn = ({ onClose }) => {
     });
     const [loginStatus, setLoginStatus] = useState(false);
     const [isVisible, setIsVisible] = useState(true);
+    const [isSignInVisible, setSignInVisible] = useState(false);
 
     const dispatch = useDispatch();
 
@@ -33,6 +35,14 @@ const SignIn = ({ onClose }) => {
     useEffect(() => {
         setIsVisible(true);
     }, []);
+
+    const handleOpenSignIn = () => {
+        setSignInVisible(true);
+      };
+    
+      const handleCloseSignIn = () => {
+        setSignInVisible(false);
+      };
 
     return (
         <div className={styles.base}>
@@ -80,12 +90,13 @@ const SignIn = ({ onClose }) => {
                         </div>
                         <h4 className={styles.newText}>New to our website?</h4>
                         <p className={styles.newTextPara}>Create an account to check out faster in the future and receive emails about your orders, new products, events and special offers!</p>
-                        <button className={styles.button}>
+                        <button className={styles.button} onClick={handleOpenSignIn}>
                             REGISTER
                         </button>
                     </div>
                 </form>
             </div>
+            {isSignInVisible && <SignUp onClose={handleCloseSignIn} />}
         </div>
     );
 };

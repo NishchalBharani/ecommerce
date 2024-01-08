@@ -4,15 +4,26 @@ import category from '../../dataJson/Category.json'
 import clothes from '../../dataJson/Clothes.json'
 import downArrow from '../../images/downArrow.svg'
 import Footer from "../Footer/Footer";
+import { ClothesDetail } from "../../utils/constants";
+import { useNavigate } from 'react-router-dom';
 
 const ClothesPage = () => {
     const [categoryData, setCategoryData] = useState([])
     const [clothesData, setClothesData] = useState([])
+    const navigate = useNavigate();
 
     useEffect(() => {
         setCategoryData(category)
         setClothesData(clothes)
     }, [])
+
+    const navigateToClothesDetail = (id) => {
+        if (id !== undefined && id !== null) {
+            navigate(`/clothesdetail/${id}`);
+        } else {
+            console.error("Invalid id:", id);
+        }
+    };
 
     return (
         <div className={styles.base}>
@@ -39,7 +50,7 @@ const ClothesPage = () => {
                 {
                     clothesData.map((ele) => {
                         return (
-                            <div key={ele.id}>
+                            <div key={ele.id} onClick={() => navigateToClothesDetail(ele.id)}>
                                 <img
                                     src={ele.clothesImg}
                                     className={styles.clothesImg}

@@ -71,10 +71,11 @@ export const signup = (payload) => {
 
             console.log("action file", result.token)
 
-            Cookie.createCookie(ACCESS_TOKEN, result.token, 7)
-            Cookie.createCookie(USER_DETAILS, JSON.stringify(result), 7)
+            // Cookie.createCookie(ACCESS_TOKEN, result.token, 7)
+            // Cookie.createCookie(USER_DETAILS, JSON.stringify(result), 7)
             return dispatch(signupSuccess(result))
         } catch (e) {
+            console.log(e)
             return dispatch(signupFailure(e.message))
         }
     }

@@ -14,3 +14,5 @@ export const Home = `/`
 export const Signup = `/signup`
 export const Signin = `/signin`
 export const Clothes = `/clothes`
+export const ClothesDetail = '/clothesdetail/:id';
+export const CheckoutPage = '/checkout'

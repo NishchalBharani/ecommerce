@@ -5,7 +5,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51JO6wC1FKL._AC_UL320_.jpg",
         "price": "1500",
         "offer": "25% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 2,
@@ -13,7 +17,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/6163BrfCvHL._AC_UL320_.jpg",
         "price": "1700",
         "offer": "15% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue", "green"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 3,
@@ -21,7 +29,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/61lgHR8Zk8L._AC_UL320_.jpg",
         "price": "2500",
         "offer": "10% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 32, 36]
     },
     {
         "id": 4,
@@ -29,7 +41,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/31pzQFtsR1L._AC_UL320_.jpg",
         "price": "1200",
         "offer": "10% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30]
     },
     {
         "id": 5,
@@ -37,7 +53,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51DlaO52cwL._AC_UL320_.jpg",
         "price": "1550",
         "offer": "5% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 2,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 6,
@@ -45,7 +65,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/31PF6PFn-uL._AC_UL320_.jpg",
         "price": "2550",
         "offer": "35% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 7,
@@ -53,7 +77,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/61Tj9IEw3DL._AC_UL320_.jpg",
         "price": "1900",
         "offer": "15% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 8,
@@ -61,7 +89,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51DlaO52cwL._AC_UL320_.jpg",
         "price": "2900",
         "offer": "15% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 9,
@@ -69,7 +101,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/418ncyJGkAL._AC_UL320_.jpg",
         "price": "2800",
         "offer": "20% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 10,
@@ -77,7 +113,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/61qAurtITgL._AC_UL320_.jpg",
         "price": "3800",
         "offer": "20% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 11,
@@ -85,15 +125,23 @@
         "clothesImg": "https://m.media-amazon.com/images/I/81BV0ohpOsL._AC_UL320_.jpg",
         "price": "1500",
         "offer": "25% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 12,
-        "name": "Green Top",
+        "name": "Plus Size Recycled Ribbed One Shoulder Bikini Top ",
         "clothesImg": "https://m.media-amazon.com/images/I/51F+X9oHwWL._AC_UL320_.jpg",
         "price": "1700",
         "offer": "15% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 13,
@@ -101,7 +149,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51o0UEkM8fL._AC_UL320_.jpg",
         "price": "2500",
         "offer": "10% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 14,
@@ -109,7 +161,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51F+X9oHwWL._AC_UL320_.jpg",
         "price": "1200",
         "offer": "10% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 15,
@@ -117,7 +173,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51o0UEkM8fL._AC_UL320_.jpg",
         "price": "1550",
         "offer": "5% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 16,
@@ -125,7 +185,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/61lgHR8Zk8L._AC_UL320_.jpg",
         "price": "2550",
         "offer": "35% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 17,
@@ -133,7 +197,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51juAikFa-L._AC_UL320_.jpg",
         "price": "1900",
         "offer": "15% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 18,
@@ -141,7 +209,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51UW92IbCRL._AC_UL320_.jpg",
         "price": "2900",
         "offer": "15% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 19,
@@ -149,7 +221,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/81TvgVp7lIL._AC_UL320_.jpg",
         "price": "2800",
         "offer": "20% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 20,
@@ -157,7 +233,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/61vFrn2vitL._AC_UL320_.jpg",
         "price": "3800",
         "offer": "20% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 21,
@@ -165,7 +245,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/61qAurtITgL._AC_UL320_.jpg",
         "price": "1500",
         "offer": "25% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 22,
@@ -173,7 +257,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/61k3xrWUdOL._AC_UL320_.jpg",
         "price": "1700",
         "offer": "15% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 23,
@@ -181,7 +269,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/81F-6MnZRrL._AC_UL320_.jpg",
         "price": "2500",
         "offer": "10% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 24,
@@ -189,7 +281,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51WVMQWalEL._AC_UL320_.jpg",
         "price": "1200",
         "offer": "10% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 25,
@@ -197,7 +293,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/81H5w4lISJL._AC_UL320_.jpg",
         "price": "1550",
         "offer": "5% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 26,
@@ -205,7 +305,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51u8apDgPZL._AC_UL320_.jpg",
         "price": "2550",
         "offer": "35% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 27,
@@ -213,7 +317,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51CzuSaauUL._AC_UL320_.jpg",
         "price": "1900",
         "offer": "15% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue", "red", "brown"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 28,
@@ -221,7 +329,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/41WOi4NG5LL._AC_UL320_.jpg",
         "price": "2900",
         "offer": "15% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 29,
@@ -229,7 +341,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/91T9CCcEYkL._AC_UL320_.jpg",
         "price": "2800",
         "offer": "20% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 30,
@@ -237,7 +353,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51JO6wC1FKL._AC_UL320_.jpg",
         "price": "3800",
         "offer": "20% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 31,
@@ -245,7 +365,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/31pzQFtsR1L._AC_UL320_.jpg",
         "price": "1500",
         "offer": "25% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 32,
@@ -253,7 +377,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/61Tj9IEw3DL._AC_UL320_.jpg",
         "price": "1700",
         "offer": "15% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 33,
@@ -261,7 +389,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/81TvgVp7lIL._AC_UL320_.jpg",
         "price": "2500",
         "offer": "10% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 34,
@@ -269,7 +401,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/61vFrn2vitL._AC_UL320_.jpg",
         "price": "1200",
         "offer": "10% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 35,
@@ -277,7 +413,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/81BV0ohpOsL._AC_UL320_.jpg",
         "price": "1550",
         "offer": "5% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 36,
@@ -285,7 +425,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51F+X9oHwWL._AC_UL320_.jpg",
         "price": "2550",
         "offer": "35% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 37,
@@ -293,7 +437,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/61lgHR8Zk8L._AC_UL320_.jpg",
         "price": "1900",
         "offer": "15% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 38,
@@ -301,7 +449,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51F+X9oHwWL._AC_UL320_.jpg",
         "price": "2900",
         "offer": "15% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 39,
@@ -309,7 +461,11 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51juAikFa-L._AC_UL320_.jpg",
         "price": "2800",
         "offer": "20% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     },
     {
         "id": 40,
@@ -317,6 +473,10 @@
         "clothesImg": "https://m.media-amazon.com/images/I/51juAikFa-L._AC_UL320_.jpg",
         "price": "3800",
         "offer": "20% OFF",
-        "isLiked": false
+        "isLiked": false,
+        "availableColors": ["pink", "black", "blue"],
+        "description": "Bandeau together. Our bandeau jumpsuit in high-quality velvet looks great with strappy heels and a glass in hand.\n\nPremium Embroidered Velvet Bandeau Jumpsuit\nVelvet Jumpsuit\nBandeau Jumpsuit\nZip Fastening in Back\nSweetheart Neckline\nStrapless\nWide Leg Design\n\nModel wears a size M (US size 6/UK size 10).\n\nFabric: 100% Polyester: Hand Wash Only\nSKU: #BGG12390-105-18",
+        "quantity": 3,
+        "size": [28, 30, 32, 36]
     }
 ]

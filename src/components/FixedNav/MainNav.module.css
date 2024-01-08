@@ -15,7 +15,7 @@
 .eachNav {
     font-size: 20px;
     cursor: pointer;
-    font-family: 'Poppins', sans-serif;
+    font: 14px/1.2 "NG Grotesque","Helvetica Neue","Helvetica","Arial","Nimbus Sans L","Liberation Sans",sans-serif;
     position: relative;
 }
 

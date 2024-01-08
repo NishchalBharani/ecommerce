@@ -1,33 +1,110 @@
-.inputHolder {
-    display: flex;
-    flex-direction: column;
-    max-width: 300px;
-    margin: auto;
-  }
-  
-  .inputField {
-    margin-bottom: 10px;
-    padding: 8px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    outline: none;
-  }
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,500;1,200;1,300;1,500&family=Roboto+Slab:wght@200;300&display=swap');
 
-  .inputField:focus {
-    border: 1px solid #0056b3;
-  }
-  
-  .button {
-    padding: 10px;
-    background-color: #007bff;
-    color: #fff;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-    cursor: pointer;
-  }
-  
-  .button:hover {
-    background-color: #0056b3;
-  }
+.base {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  overflow: hidden;
+  transition: background-color 0.3s ease;
+  transition: 0.3s;
+  font: 14px/1.2 "NG Grotesque","Helvetica Neue","Helvetica","Arial","Nimbus Sans L","Liberation Sans",sans-serif;
+}
+
+.loginBase {
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 100%;
+  width: 25%;
+  background-color: white;
+  transform: translateX(100%);
+  transition: 0.3s;
+  text-align: left;
+  padding: 20px;
+}
+
+.visible {
+  transform: translateX(0%);
+  transition: 0.3s;
+}
+
+.hidden {
+  transform: translateX(100%);
+}
+
+.heading {
+  font-size: 20px;
+}
+
+.subHeading {
+  font-size: 20px;
+}
+
+.label {
+  font-size: 18px;
+  margin-bottom: 2%;
+}
+
+.checkBox {
+  display: flex;
+  width: 50%;
+  gap: 10px;
+}
+
+.inputHolder {
+  display: flex;
+  flex-direction: column;
+  max-width: 90%;
+}
+
+.inputField {
+  margin-bottom: 10px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  outline: none;
+  width: 50%;
+}
+
+.inputField:focus {
+  border: 1px solid #0056b3;
+}
+
+.button {
+  padding: 10px;
+  background-color: #000000;
+  color: #fff;
+  border: none;
+  /* border-radius: 4px; */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  cursor: pointer;
+  width: 35%;
+  height: 50px;
+  font-size: 15px;
+}
+
+.button:hover {
+  color: rgb(212, 229, 248)
+}
+
+.newText {
+  font-size: 18px;
+  margin: 2% 0% 0% 0%;
+}
+
+.newTextPara {
+  font-size: 17px;
+}
+
+.para {
+  color: red;
+  margin: 0px;
+  font-size: 12px;
+}

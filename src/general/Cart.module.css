@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,500;1,200;1,300;1,500&family=Roboto+Slab:wght@200;300&display=swap');
+
+.base {
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 100vh;
+    position: fixed;
+    top: 0;
+    right: 0;
+    font: 14px/1.2 "NG Grotesque","Helvetica Neue","Helvetica","Arial","Nimbus Sans L","Liberation Sans",sans-serif;
+    transition: right 0.4s;
+}
+
+.cartbase {
+    width: 25%;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    right: -100%;
+    height: 100%;
+    overflow: scroll;
+    background: white;
+    transition: right 0.4s;
+}
+
+.visible {
+    right: 0;
+    transition: right 0.4s;
+}
+
+.textAndCloseHolder {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.cartMainText {
+    font-size: 15px;
+    text-align: left;
+}
+
+.closeCss {
+    font-size: 15px;
+    cursor: pointer;
+    margin-right: 1%;
+}
+
+.cartItem {
+    width: 100%;
+    height: auto;
+    display: flex;
+    background: rgb(235, 235, 235);
+}
+
+.clothesImg {
+    width: 30%;
+    height: 180px;
+    object-fit: cover;
+}
+
+.detailContainer {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    width: 70%;
+}
+
+.name {
+    font-size: 15px;
+    margin: 0px;
+}
+
+.color {
+    font-size: 15px;
+    font-weight: 300;
+    margin-top: 1%;
+}
+
+.colorQty {
+    font-size: 15px;
+    font-weight: 300;
+    margin: 0%;
+    width: 25%;
+}
+
+.qtyAndButton {
+    width: 100%;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.qtyButtons {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    height: auto;
+}
+
+.plusMinusButton {
+    width: 25px;
+    height: 25px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background: black;
+    color: white;
+    border: black;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+.editAndPrice {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5%;
+}
+
+.edit {
+    cursor: pointer;
+}
+
+.edit:hover {
+    text-decoration: underline;
+}
+
+.subTotalAndNext {
+    width: 100%;
+    height: auto;
+}
+
+.subTotal {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.orderTotal {
+    font-size: 15px;
+    margin: 0px;
+}
+
+.taxesText {
+    font-size: 10px;
+    margin: 0px;
+    text-align: end;
+}
+
+.buttonHolder {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4%;
+}
+
+.buttonView {
+    width: 45%;
+    height: 40px;
+    background-color: white;
+    border: 0px;
+    color: black;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 15px;
+    border: 1px solid black;
+}
+
+.buttonCheckout {
+    width: 45%;
+    height: 40px;
+    background-color: black;
+    border: 0px;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+    font-size: 15px;
+}

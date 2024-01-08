@@ -26,6 +26,7 @@
   transition: 0.3s;
   text-align: left;
   padding: 20px;
+  font: 14px/1.2 "NG Grotesque","Helvetica Neue","Helvetica","Arial","Nimbus Sans L","Liberation Sans",sans-serif;
 }
 
 .visible {
